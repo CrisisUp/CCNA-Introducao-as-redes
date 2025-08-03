@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#6f68df",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Roboto",
+  "textFontFamily": "Roboto",
+  "interfaceFontFamily": "Roboto"
+}

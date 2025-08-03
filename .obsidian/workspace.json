@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a22bc6fa5f66021a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cbf0544a6715e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae7ff8013ebfddd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.2_Modulo_Quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.10.2_Modulo_Quiz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e7f0e74f8ddad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a06745e8d08481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3940e60bf4f8b723",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f0a5c50825db86ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "87194d4873283acd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "0ec78eece4850114",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5ed3786dbf329e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccef07be4974373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.0.2_O que vou aprender neste modulo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 01.0.2_O que vou aprender neste modulo"
+            }
+          },
+          {
+            "id": "d844ce388cdc3f5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.0.2_O que vou aprender neste modulo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 01.0.2_O que vou aprender neste modulo"
+            }
+          },
+          {
+            "id": "544a279192e59964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "acd3a6183d617954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.2_Modulo_Quiz.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 01.10.2_Modulo_Quiz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ae7ff8013ebfddd4",
+  "lastOpenFiles": [
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/08_Seguranca_Da_Rede/01.8.3_Verifique_Compreensao_Seguranca.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.2_Modulo_Quiz.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.1_O_Que_Aprendi_Neste_Modulo.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/09_O_Profissional_De_TI/01.9.3_Laboratorio_Pesquise_Oportunidades.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/09_O_Profissional_De_TI/01.9.2_Trabalhos_Em_Rede.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/09_O_Profissional_De_TI/01.9.1_CCNA.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.10_Verifique_Compreensao_Tendencias.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/08_Seguranca_Da_Rede/01.8.2_Solucoes_De_Seguranca.md",
+    "Vault/anexos/1.8.2.fig.01.png",
+    "Vault/anexos/Captura de tela 2025-08-03 081759.png",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/08_Seguranca_Da_Rede/01.8.1_Ameacas_A_Seguranca.md",
+    "Vault/anexos/1.8.1.fig.01.png",
+    "Vault/anexos/Captura de tela 2025-08-03 081159.png",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.6_Verifique_Compreensao_Confiabilidade.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.9_Banda_Larga_Sem_Fio.md",
+    "Vault/anexos/1.7.9.fig.01.png",
+    "Vault/anexos/Captura de tela 2025-08-03 073255.png",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/04_Tipos_Comuns_De_Redes/01.4.2_LANs_e_WANs.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.8_Rede_Powerline.md",
+    "Vault/anexos/1.7.8.fig.01.png",
+    "Vault/anexos/Captura de tela 2025-08-03 072750.png",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.7_Tendencias_Tecnologicas_Em_Casa.md",
+    "Vault/anexos/1.7.7.fig.01.png",
+    "Vault/anexos/Captura de tela 2025-08-03 071655.png",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.6_Computacao_Em_Nuvem.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.5_Video_Cisco_Webex.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.4_Comunicacoes_Em_Video.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.3_Colaboracao_Online.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.2_BYOD.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/07_Tendencias_De_Redes/01.7.1_Tendencias_Recentes.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.6_Verifique_Compreensao_Componentes.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.5_Seguranca_Da_Rede.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.4_Qualidade_Do_Servico.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.4_Dispositivos_Intermediarios.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.2_Tolerancia_A_Falhas.md",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/adrum-ext.644cff51eb38ae7a19391a0ddcfb0369.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/destination",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/munchkin.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/sgpulsee086d44f80e57de4ba59.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/129004143430082",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react.production.min.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/fbevents.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react-dom.production.min.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/analytics.js.download",
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/xapiwrapper.min.js.download"
+  ]
+}
