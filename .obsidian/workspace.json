@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cbf0544a6715e1",
+        "id": "e9b83c6f503db464",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7ff8013ebfddd4",
+            "id": "3cbf1490621c2bfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01.6.3_Escalabilidade"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 352.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.6.3_Escalabilidade"
+              "title": "Sumário"
             }
           }
         ]
@@ -160,17 +155,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae7ff8013ebfddd4",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
+    "Sem título",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
+    "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-03 11.16.04.excalidraw.md",
+    "Sem título.md",
+    "URL_DO_VIDEO_AQUI.md",
+    "logo.png",
+    "Captura de tela 2025-07-19 215431.png",
+    "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
+    "Excalidraw",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.2_Tolerancia_A_Falhas.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.1_Arquitetura_De_Redes.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.5_Packet_Tracer_Representacao.md",
@@ -190,13 +198,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.1_Funcoes_Do_Host.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.1.3_Nao_Ha_Limites.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.1.2_Video_Cisco_NetAcad.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/04_Tipos_Comuns_De_Redes/01.4.1_Redes_De_Varios_Tamanhos.md",
-    "01_Redes_Conectam_Nossas_Vidas.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.2_Modulo_Quiz.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/08_Seguranca_Da_Rede/01.8.3_Verifique_Compreensao_Seguranca.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/10_Resumo_Modulo/01.10.1_O_Que_Aprendi_Neste_Modulo.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/09_O_Profissional_De_TI/01.9.3_Laboratorio_Pesquise_Oportunidades.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/09_O_Profissional_De_TI/01.9.2_Trabalhos_Em_Rede.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
@@ -205,8 +206,6 @@
     "Vault/anexos/Captura de tela 2025-08-03 073255.png",
     "Vault/anexos/1.7.8.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 072750.png",
-    "Vault/anexos/1.7.7.fig.01.png",
-    "Vault/anexos/Captura de tela 2025-08-03 071655.png",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/adrum-ext.644cff51eb38ae7a19391a0ddcfb0369.js.download",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/destination",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/munchkin.js.download",
@@ -215,7 +214,6 @@
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react.production.min.js.download",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/fbevents.js.download",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react-dom.production.min.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/analytics.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/xapiwrapper.min.js.download"
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/analytics.js.download"
   ]
 }
