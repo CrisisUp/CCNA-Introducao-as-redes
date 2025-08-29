@@ -11,14 +11,10 @@
             "id": "bffe6077a764bf51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modulo 01 As redes de hoje.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modulo 01 As redes de hoje"
+              "title": "New tab"
             }
           }
         ]
@@ -173,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Modulo 01 As redes de hoje.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje",
+    "Modulo 01 As redes de hoje",
     "01_Redes_Conectam_Nossas_Vidas.md",
     "Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes",
@@ -205,7 +204,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.5_Meios_De_Rede.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.4_Dispositivos_Intermediarios.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.3_Dispositivos_Finais.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.2_Ponto_a_Ponto.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
@@ -218,8 +216,6 @@
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/destination",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/munchkin.js.download",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/sgpulsee086d44f80e57de4ba59.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/129004143430082",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react.production.min.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/fbevents.js.download"
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/129004143430082"
   ]
 }
