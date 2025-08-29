@@ -11,10 +11,12 @@
             "id": "3cbf1490621c2bfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-03 10.44.21.excalidraw"
             }
           }
         ]
@@ -163,20 +165,25 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "825c7e9fd9a418c1",
   "lastOpenFiles": [
-    "Sem título",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
     "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
     "Excalidraw/Drawing 2025-08-03 11.16.04.excalidraw.md",
-    "Sem título.md",
     "URL_DO_VIDEO_AQUI.md",
     "logo.png",
     "Captura de tela 2025-07-19 215431.png",
-    "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
+    "07.6_Computacao_Em_Nuvem.md",
+    "04_Tipos_Comuns_De_Redes.md",
+    "01_Redes_Conectam_Nossas_Vidas.md",
+    "Sem título",
+    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.3_Escalabilidade.md",
+    "Sem título.md",
     "Excalidraw",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.2_Tolerancia_A_Falhas.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.1_Arquitetura_De_Redes.md",
@@ -194,9 +201,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.4_Dispositivos_Intermediarios.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.3_Dispositivos_Finais.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.2_Ponto_a_Ponto.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.1_Funcoes_Do_Host.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.1.3_Nao_Ha_Limites.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/01_Redes_Conectam_Nossas_Vidas/01.1.2_Video_Cisco_NetAcad.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
@@ -212,7 +216,6 @@
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/129004143430082",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react.production.min.js.download",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/fbevents.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react-dom.production.min.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/analytics.js.download"
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/react-dom.production.min.js.download"
   ]
 }
