@@ -11,10 +11,14 @@
             "id": "bffe6077a764bf51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.0.1 Porque devo cursar este modulo"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modulo 01 As redes de hoje.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modulo 01 As redes de hoje"
+              "title": "Outline of 1.0.1 Porque devo cursar este modulo"
             }
           }
         ]
@@ -169,13 +173,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "Modulo 01 As redes de hoje.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Introducao",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje",
     "Modulo 01 As redes de hoje",
     "01_Redes_Conectam_Nossas_Vidas.md",
-    "Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes",
     "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
     "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
@@ -203,7 +211,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.6_Verifique_Compreensao_Componentes.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.5_Meios_De_Rede.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.4_Dispositivos_Intermediarios.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.3_Dispositivos_Finais.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
@@ -213,9 +220,6 @@
     "Vault/anexos/1.7.8.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 072750.png",
     "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/adrum-ext.644cff51eb38ae7a19391a0ddcfb0369.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/destination",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/munchkin.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/sgpulsee086d44f80e57de4ba59.js.download",
-    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/129004143430082"
+    "Vault/anexos/Cisco Networking Academy_ CCNA_ Introdução às Redes_files/destination"
   ]
 }
