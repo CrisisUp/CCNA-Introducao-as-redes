@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.0.1 Porque devo cursar este modulo"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -173,10 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
-    "Modulo 01 As redes de hoje.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo - Copia.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
+    "Untitled.md",
+    "Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Introducao",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
@@ -208,9 +211,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/04_Tipos_Comuns_De_Redes/01.4.3_A_Internet.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/04_Tipos_Comuns_De_Redes/01.4.2_LANs_e_WANs.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/03_Representacao_E_Topologias_De_Rede/01.3.1_Representacoes_De_Rede.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.6_Verifique_Compreensao_Componentes.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.5_Meios_De_Rede.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/02_Componentes_De_Rede/01.2.4_Dispositivos_Intermediarios.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
