@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.3 Dispositivos Finais.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.2 Ponto a ponto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.3 Dispositivos Finais"
+              "title": "1.2.2 Ponto a ponto"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.3 Dispositivos Finais.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.2 Ponto a ponto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2.3 Dispositivos Finais"
+              "title": "Outline of 1.2.2 Ponto a ponto"
             }
           }
         ]
@@ -175,16 +175,19 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.3 Dispositivos Finais.md",
+    "_recursos/tabela 1.2.1.png",
+    "_recursos/figura 1.2.3.png",
+    "_recursos/figura 1.2.2.png",
+    "_recursos/figura 1.2.1.png",
     "_recursos/figura 1.2.3.png.png",
     "_recursos/Captura de tela 2025-09-01 085905.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.2 Ponto a ponto.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.3 Dispositivos Finais.md",
     "_recursos/figura 1.2.2.png.png",
     "_recursos/Captura de tela 2025-09-01 085558.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.1 Funções do Host.md",
     "_recursos/tabela 1.2.1.png.png",
     "_recursos/Captura de tela 2025-09-01 085252.png",
-    "_recursos/figura 1.2.1.png.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
@@ -215,11 +218,7 @@
     "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
     "Excalidraw/Drawing 2025-08-03 11.16.04.excalidraw.md",
     "URL_DO_VIDEO_AQUI.md",
-    "logo.png",
-    "Captura de tela 2025-07-19 215431.png",
     "07.6_Computacao_Em_Nuvem.md",
-    "04_Tipos_Comuns_De_Redes.md",
-    "Vault/anexos/1.8.2.fig.01.png",
-    "Vault/anexos/Captura de tela 2025-08-03 081759.png"
+    "04_Tipos_Comuns_De_Redes.md"
   ]
 }
