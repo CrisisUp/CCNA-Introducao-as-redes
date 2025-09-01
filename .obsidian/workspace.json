@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.4 A Rede Convergente"
+              "title": "1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.5.4 A Rede Convergente"
+              "title": "Outline of 1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md"
             }
           }
         ]
@@ -175,11 +175,17 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
+    "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
+    "_recursos/figura 1.5.4b.png",
     "_recursos/Captura de tela 2025-09-01 104132.png",
     "_recursos/figura 1.5.4a.png",
     "_recursos/Captura de tela 2025-09-01 104029.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.3 Conexões Corporativas com a Internet.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
     "_recursos/figura 1.5.3.png",
     "_recursos/Captura de tela 2025-09-01 103834.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.2 Conexões com a Internet para Residências e Pequenos Escritórios.md",
@@ -191,8 +197,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "_recursos/1.4.5 pergunta 03.png",
     "_recursos/1.4.5 pergunta 02.png",
-    "_recursos/1.4.5 pergunta 01.png",
-    "_recursos/Captura de tela 2025-09-01 103129.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4 Tipos comuns de redes/1.4.4 Intranets e Extranets.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4 Tipos comuns de redes/1.4.3 A Internet.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4 Tipos comuns de redes/1.4.2 LANs e WANs.md",
@@ -212,14 +216,10 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf",
-    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pratico_pt-BR.pka",
-    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pka"
+    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pratico_pt-BR.pka"
   ]
 }
