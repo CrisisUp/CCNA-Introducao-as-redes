@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0.3 Baixe e instale o Packed Tracer.md"
+              "title": "1.1.1 Redes Conecte-nos"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.0.3 Baixe e instale o Packed Tracer.md"
+              "title": "Outline of 1.1.1 Redes Conecte-nos"
             }
           }
         ]
@@ -175,6 +175,11 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
+    "Untitled.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
@@ -186,16 +191,12 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md.md",
     "_recursos",
     "Nova pasta",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md - Copia.md",
-    "Untitled.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo - Copia.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.txt",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/Novo(a) Documento de Texto.txt",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo - Copia.md",
     "Modulo 01 As redes de hoje.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Introducao",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Modulo 01 As redes de hoje.md",
     "01_Redes_Conectam_Nossas_Vidas.md",
     "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
