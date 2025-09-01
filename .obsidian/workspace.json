@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.3 Não Há Limites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1 Redes Conecte-nos"
+              "title": "1.1.3 Não Há Limites"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 580.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.3 Não Há Limites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.1.1 Redes Conecte-nos"
+              "title": "Outline of 1.1.3 Não Há Limites"
             }
           }
         ]
@@ -175,8 +175,10 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.3 Não Há Limites.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
     "Untitled.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
@@ -211,8 +213,6 @@
     "Sem título.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.2_Tolerancia_A_Falhas.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/06_Redes_Confiáveis/01.6.1_Arquitetura_De_Redes.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.5_Packet_Tracer_Representacao.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.4_A_Rede_Convergente.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
