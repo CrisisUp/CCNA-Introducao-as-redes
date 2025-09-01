@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 507.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -175,6 +175,8 @@
   },
   "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md - Copia.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
@@ -211,8 +213,6 @@
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.4_A_Rede_Convergente.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.3_Conexoes_Corporativas.md",
     "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.2_Conexoes_Residencias_E_Pequenos_Escritorios.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/05_Conexoes_Com_A_Internet/01.5.1_Tecnologias_De_Acesso_Internet.md",
-    "Vault/00_Módulos_Redes/01_As_Redes_De_Hoje/04_Tipos_Comuns_De_Redes/01.4.5_Verifique_Compreensao_Tipos.md",
     "Vault/anexos/1.8.2.fig.01.png",
     "Vault/anexos/Captura de tela 2025-08-03 081759.png",
     "Vault/anexos/1.8.1.fig.01.png",
