@@ -1,0 +1,6 @@
+# Obsidian
+.obsidian/
+*.css
+*.js
+*.json
+*.md~
