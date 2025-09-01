@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3 Representações e topologias de rede/1.3.1 Representações de Rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.6 Verifique sua compreensão - Componentes de rede"
+              "title": "1.3.1 Representações de Rede"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3 Representações e topologias de rede/1.3.1 Representações de Rede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2.6 Verifique sua compreensão - Componentes de rede"
+              "title": "Outline of 1.3.1 Representações de Rede"
             }
           }
         ]
@@ -173,8 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "_recursos/figura 1.3.1.png",
+    "_recursos/Captura de tela 2025-09-01 100541.png",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3 Representações e topologias de rede/1.3.1 Representações de Rede.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3 Representações e topologias de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.5 Meios de rede.md",
@@ -192,7 +196,6 @@
     "_recursos/figura 1.0.2.png",
     "_recursos/Captura de tela 2025-08-29 102637.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
     "_recursos/1.2.6 pergunta 03.png",
     "_recursos/Captura de tela 2025-09-01 091158.png",
     "_recursos/1.2.6 pergunta 02.png",
@@ -200,7 +203,6 @@
     "_recursos/1.2.6 pergunta 01.png",
     "_recursos/Captura de tela 2025-09-01 090912.png",
     "_recursos/figura 1.2.5.png",
-    "_recursos/Captura de tela 2025-09-01 090629.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede",
     "Untitled.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas",
@@ -213,13 +215,11 @@
     "Nova pasta",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md - Copia.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo - Copia.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.txt",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo - Copia.md",
     "Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Modulo 01 As redes de hoje.md",
     "01_Redes_Conectam_Nossas_Vidas.md",
     "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-03 11.16.04.excalidraw.md"
+    "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md"
   ]
 }
