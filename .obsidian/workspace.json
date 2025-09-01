@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.4 Dispositivos Intermediários.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.4 Dispositivos Intermediários"
+              "title": "1.2.6 Verifique sua compreensão - Componentes de rede"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.4 Dispositivos Intermediários.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.6 Verifique sua compreensão - Componentes de rede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2.4 Dispositivos Intermediários"
+              "title": "Outline of 1.2.6 Verifique sua compreensão - Componentes de rede"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.5 Meios de rede.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.4 Dispositivos Intermediários.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.3 Dispositivos Finais.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.2 Ponto a ponto.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.1 Funções do Host.md",
@@ -195,10 +197,8 @@
     "_recursos/Captura de tela 2025-09-01 091056.png",
     "_recursos/1.2.6 pergunta 01.png",
     "_recursos/Captura de tela 2025-09-01 090912.png",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.5 Meios de rede.md",
     "_recursos/figura 1.2.5.png",
     "_recursos/Captura de tela 2025-09-01 090629.png",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.4 Dispositivos Intermediários.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "Untitled.md",
