@@ -11,14 +11,12 @@
             "id": "bffe6077a764bf51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
-                "mode": "source",
-                "source": false
+                "file": "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md"
+              "icon": "lucide-file-text",
+              "title": "1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 537.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
+                "file": "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md"
+              "title": "Outline of 1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR"
             }
           }
         ]
@@ -173,11 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pratico_pt-BR.pka",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pka",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.4 Video - Introducao ao Cisco Packet Tracer.md.md",
     "_recursos",
     "Nova pasta",
@@ -196,7 +195,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Modulo 01 As redes de hoje.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje",
-    "Modulo 01 As redes de hoje",
     "01_Redes_Conectam_Nossas_Vidas.md",
     "Excalidraw/Drawing 2025-08-03 10.44.21.excalidraw.md",
     "Excalidraw/Drawing 2025-08-03 11.18.11.excalidraw.md",
