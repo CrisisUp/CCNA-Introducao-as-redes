@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.3 Escalabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6.2 Tolerância a Falhas"
+              "title": "1.6.3 Escalabilidade"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.3 Escalabilidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.6.2 Tolerância a Falhas"
+              "title": "Sumário de 1.6.3 Escalabilidade"
             }
           }
         ]
@@ -175,13 +175,16 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "_recursos/figura 1.6.3.png",
+    "_recursos/Captura de tela 2025-09-06 131814.png",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.3 Escalabilidade.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.1 Funções do Host.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.3 Não Há Limites.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.2 Conexões com a Internet para Residências e Pequenos Escritórios.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.1 Tecnologias de Acesso à Internet.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.4 A Rede Convergente.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
     "_recursos/figura 1.6.2.png",
@@ -208,8 +211,6 @@
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
     "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
     "_recursos/figura 1.5.4b.png",
     "_recursos/Captura de tela 2025-09-01 104132.png",
@@ -218,7 +219,6 @@
     "_recursos/figura 1.5.3.png",
     "_recursos/Captura de tela 2025-09-01 103834.png",
     "_recursos/figura 1.5.2.png",
-    "_recursos/Captura de tela 2025-09-01 103634.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4 Tipos comuns de redes"
   ]
