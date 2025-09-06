@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 333.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
     "_recursos/1.10.2 pergunta 02.png",
     "_recursos/1.10.2 pergunta 03.png",
