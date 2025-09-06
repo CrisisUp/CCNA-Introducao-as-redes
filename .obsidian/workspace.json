@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.2 Soluções de Segurança.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8.2 Soluções de Segurança"
+              "title": "1.8.3 Verifique sua compreensão - Segurança de rede"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.2 Soluções de Segurança.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.8.2 Soluções de Segurança"
+              "title": "Sumário de 1.8.3 Verifique sua compreensão - Segurança de rede"
             }
           }
         ]
@@ -175,8 +175,10 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.1 Ameaças à Segurança.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.2 Soluções de Segurança.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
+    "_recursos/figura 1.8.2.png",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes/1.8.1 Ameaças à Segurança.md",
     "_recursos/figura 1.8.1.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.10 Verifique sua compreensão - Tendências de rede.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8 Segurança de Redes",
@@ -191,7 +193,6 @@
     "_recursos/figura 1.7.8.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.7 Tendências Tecnológicas em Casa.md",
     "_recursos/figura 1.7.7.png",
-    "_recursos/Captura de tela 2025-09-06 140939.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.6 Computação em nuvem.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.5 Vídeo - Cisco Webex para Huddles.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.4 Comunicações em vídeo.md",
@@ -216,7 +217,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.1 Tecnologias de Acesso à Internet.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.4 A Rede Convergente.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.1 Arquitetura de Redes.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4. Tipos comuns de redes",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3. Representações e topologias de rede",
