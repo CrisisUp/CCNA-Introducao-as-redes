@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 354.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -175,6 +175,7 @@
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "_recursos/tab/tabela 2.0.2.png",
     "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.1 Por que devo cursar este módulo.md",
     "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.2 O que vou aprender neste módulo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
@@ -205,7 +206,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.4 Comunicações em vídeo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.2 Traga seu próprio dispositivo (BYOD).md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.3 Colaboração On-line.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.1 Tendências recentes.md",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "_recursos/tabela 1.0.2.png",
     "_recursos/fig/figura 1.8.2.png",
