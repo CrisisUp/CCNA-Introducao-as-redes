@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.2 Traga seu próprio dispositivo (BYOD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6.6 Verifique sua compreensão - Redes confiáveis"
+              "title": "1.7.2 Traga seu próprio dispositivo (BYOD)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.2 Traga seu próprio dispositivo (BYOD).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.6.6 Verifique sua compreensão - Redes confiáveis"
+              "title": "Sumário de 1.7.2 Traga seu próprio dispositivo (BYOD)"
             }
           }
         ]
@@ -173,8 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.1 Tendências recentes.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.2 Traga seu próprio dispositivo (BYOD).md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes",
     "Sem título",
     "_recursos/1.6.6 pergunta 04.png",
     "_recursos/Captura de tela 2025-09-06 135558.png",
@@ -185,7 +189,6 @@
     "_recursos/1.6.6 pergunta 01.png",
     "_recursos/Captura de tela 2025-09-06 135001.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.5 Segurança da rede.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
     "_recursos/tab",
     "_recursos/Nova pasta",
     "_recursos/fig",
@@ -215,11 +218,8 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4. Tipos comuns de redes",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3. Representações e topologias de rede/1.3.1 Representações de Rede.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3. Representações e topologias de rede/1.3.2 Diagramas de Topologia.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3. Representações e topologias de rede/1.3.3 Verifique sua compreensão - Representações e topologias de rede.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.3. Representações e topologias de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta",
-    "_recursos/1.5.5-packet-tracer---network-representation_pratica_pt-BR.pka",
-    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf"
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Nova pasta"
   ]
 }
