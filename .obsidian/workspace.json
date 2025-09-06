@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,12 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
+    "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
     "_recursos/1.9.3-lab---research-it-and-networking-job-opportunities_pt-BR.pdf",
     "_recursos/Não confirmado 20255.crdownload",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.2 Trabalhos em rede.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.1 CCNA.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8. Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI",
@@ -217,9 +219,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede/1.2.1 Funções do Host.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.3 Não Há Limites.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.1 Redes Conecte-nos.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.4. Tipos comuns de redes"
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md"
   ]
 }
