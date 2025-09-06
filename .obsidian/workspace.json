@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 409.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
     "_recursos/tab/tabela 2.0.2.png",
     "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.1 Por que devo cursar este módulo.md",
