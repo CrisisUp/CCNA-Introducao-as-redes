@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 589.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -173,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao",
+    "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.2 Soluções de Segurança.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.1 Ameaças à Segurança.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.09. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
@@ -203,7 +205,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.1 Tendências recentes.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.5 Segurança da rede.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.4 Qualidade do Serviço.md",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "_recursos/tabela 1.0.2.png",
     "_recursos/fig/figura 1.8.2.png",
@@ -219,7 +220,6 @@
     "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
     "_recursos/Não confirmado 20255.crdownload",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8. Segurança de Redes",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes"
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8. Segurança de Redes"
   ]
 }
