@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
-                "mode": "preview",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.10. Módulo Prático e Quiz/1.10.1 O que eu aprendi neste módulo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes"
+              "title": "1.10.1 O que eu aprendi neste módulo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.10. Módulo Prático e Quiz/1.10.1 O que eu aprendi neste módulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes"
+              "title": "Sumário de 1.10.1 O que eu aprendi neste módulo"
             }
           }
         ]
@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/Sem título",
-    "_recursos/1.9.3-lab---research-it-and-networking-job-opportunities_pt-BR.pdf",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI/1.9.3 Laboratório - Pesquise oportunidades de trabalho em TI e redes.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.10. Módulo Prático e Quiz/1.10.1 O que eu aprendi neste módulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.10. Módulo Prático e Quiz",
+    "_recursos/1.9.3-lab---research-it-and-networking-job-opportunities_pt-BR.pdf",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5. Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
     "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
     "_recursos/Não confirmado 20255.crdownload",
@@ -214,7 +215,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.5 Segurança da rede.md",
     "_recursos/tab",
     "_recursos/Nova pasta",
-    "_recursos/fig",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.4 Qualidade do Serviço.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.3 Escalabilidade.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.2 Tolerância a Falhas.md",
