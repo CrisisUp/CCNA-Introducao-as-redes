@@ -168,20 +168,22 @@
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
     "_recursos/1.5.5-packet-tracer---network-representation_pratica_pt-BR.pka",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.5 Packet Tracer - Exploracao de modo logico e fisico.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.3 Baixe e instale o Packed Tracer.md.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.2 O que vou aprender neste modulo.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.0. Introducao/1.0.1 Porque devo cursar este modulo.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.5 Packet Tracer - Representação da Rede.md",
     "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.5 Conexões com a Internet/1.5.4 A Rede Convergente.md",
     "_recursos/figura 1.5.4b.png",
     "_recursos/Captura de tela 2025-09-01 104132.png",
     "_recursos/figura 1.5.4a.png",
@@ -217,7 +219,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas/1.1.2 Vídeo - A experiência de aprendizado da Cisco Networking Academy.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.2. Componentes de rede",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.1. Redes afetam nossas vidas",
-    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf",
-    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pratico_pt-BR.pka"
+    "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_pt-BR.pdf"
   ]
 }
