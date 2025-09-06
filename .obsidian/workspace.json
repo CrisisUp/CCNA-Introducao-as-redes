@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/Sem título.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.10 Verifique sua compreensão - Tendências de rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "1.7.10 Verifique sua compreensão - Tendências de rede"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 337.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/Sem título.md",
+                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.10 Verifique sua compreensão - Tendências de rede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de 1.7.10 Verifique sua compreensão - Tendências de rede"
             }
           }
         ]
@@ -173,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bffe6077a764bf51",
+  "active": "3940e60bf4f8b723",
   "lastOpenFiles": [
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.9 Banda Larga Sem Fio.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/Sem título.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.10 Verifique sua compreensão - Tendências de rede.md",
     "_recursos/figura 1.7.9.png",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.8 Rede Powerline.md",
     "_recursos/figura 1.7.8.png",
