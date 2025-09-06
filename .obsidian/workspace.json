@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
+                "file": "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.2 O que vou aprender neste módulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8.3 Verifique sua compreensão - Segurança de rede"
+              "title": "2.0.2 O que vou aprender neste módulo"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 428.5
   },
   "right": {
     "id": "0ec78eece4850114",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
+                "file": "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.2 O que vou aprender neste módulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.8.3 Verifique sua compreensão - Segurança de rede"
+              "title": "Sumário de 2.0.2 O que vou aprender neste módulo"
             }
           }
         ]
@@ -173,8 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3940e60bf4f8b723",
+  "active": "bffe6077a764bf51",
   "lastOpenFiles": [
+    "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.1 Por que devo cursar este módulo.md",
+    "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao/2.0.2 O que vou aprender neste módulo.md",
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.3 Verifique sua compreensão - Segurança de rede.md",
     "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final/2.0. Introducao",
     "CCNA Introdução as Redes/Modulo 02 Switch basico e configuracao de dispositivo final",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.08. Segurança de Redes/1.8.2 Soluções de Segurança.md",
@@ -203,8 +206,6 @@
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.2 Traga seu próprio dispositivo (BYOD).md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.3 Colaboração On-line.md",
     "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.7. Tendências das redes/1.7.1 Tendências recentes.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.6 Verifique sua compreensão - Redes confiáveis.md",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.6. Redes confiaveis/1.6.5 Segurança da rede.md",
     "_recursos/1.0.5-packet-tracer---logical-and-physical-mode-exploration_teorico_pt-BR.pdf",
     "_recursos/tabela 1.0.2.png",
     "_recursos/fig/figura 1.8.2.png",
@@ -219,7 +220,6 @@
     "_recursos/1.9.3-lab---research-it-and-networking-job-opportunities_pt-BR.pdf",
     "_recursos/1.5.5-packet-tracer---network-representation_teorico_pt-BR.pdf",
     "_recursos/Não confirmado 20255.crdownload",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI",
-    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.8. Segurança de Redes"
+    "CCNA Introdução as Redes/Modulo 01 As redes de hoje/1.9. O profissional de TI"
   ]
 }
